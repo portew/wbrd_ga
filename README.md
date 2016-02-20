@@ -1,2 +1,2 @@
 # wbrd_ga
-Simple Google Analitics plugin form WordPress
+Simple Google Analitics plugin for WordPress
